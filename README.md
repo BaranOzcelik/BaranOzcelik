@@ -19,6 +19,8 @@ Skills: / **VUE JS** / **BOOTSTRAP** /**JS**/ **HTML** / **CSS** /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaranOzcelik&show_icons=true)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BaranOzcelik)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BaranOzcelik)  
