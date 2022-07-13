@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Baran
 
-I've been a software developer since 2016. Currently, I am rapidly advancing towards becoming a Full-Stack Developer. I also have experience in UI/UX design.Coding is my passion and now it's part of my life.
+I've been a software developer since 2016. Currently, I am rapidly advancing towards becoming a Full-Stack Developer. I also have experience in UI/UX design. Coding is my passion and now it's part of my life.
 
 - 🔭 I’m currently working on https://brainmodify.com/ 🔗
 - 🌱 I’m currently learning Vue.js 🐱‍💻
