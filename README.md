@@ -13,7 +13,8 @@ Skills: / **VUE JS** / **BOOTSTRAP** /**JS**/ **HTML** / **CSS** /
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BaranOzcelik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://baranozcelik.com/)  
+<a href="https://drive.google.com/uc?export=view&id=<1guJH6cEbjM5GZO0ZRkamNANiqHFyLNdv>"><img src="https://drive.google.com/uc?export=view&id=<FILEID>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://baranozcelik.com/)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaranOzcelik&theme=dark&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaranOzcelik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
