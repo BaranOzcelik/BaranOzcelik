@@ -9,7 +9,9 @@ Skills: / **REACT NATİVE** / **BOOTSTRAP** /**JS**/ **HTML** / **CSS** / / **C#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaranOzcelik&theme=dark&show_icons=true)
 
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BaranOzcelik) 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaranOzcelik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
