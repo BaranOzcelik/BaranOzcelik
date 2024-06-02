@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Baran
+### Hi there 👋,
 
 I've been a software developer since 2016, with a passion for coding that has become an integral part of my life. While my journey began with web development, I am now fully immersed in the world of game development, a field that has always been my true passion.
 
